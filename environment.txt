@@ -1,0 +1,9 @@
+python=3.8.20
+pytorch=1.12
+cudatoolkit =11.6.0  
+scipy=1.9.3
+h5py=3.11.0 
+numpy=1.23.5
+tensorboard=2.14.0   
+av=1.1.0
+av2=0.2.0
